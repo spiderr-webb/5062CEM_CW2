@@ -3,7 +3,7 @@
 ## Introduction
 
 Welcome to the repository for my coursework 2 for the module <b><i>5062CEM 
-Programming and Algorithms 2</i></b>
+Programming and Algorithms 2</i></b> - completed February/March 2023
 
 ## What It Does
 
@@ -103,6 +103,3 @@ same controller.
 
 The developer documentation for this program is provided in the form of 
 docstrings and comments in the source-code.
-
-Ideas for how the software could be extended by a developer in the future 
-can be found in the wiki.
